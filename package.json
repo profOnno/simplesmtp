@@ -24,7 +24,7 @@
         }
     ],
     "dependencies": {
-        "rai": "~0.1.11",
+        "rai": "https://github.com/profOnno/rai/archive/vows.tar.gz",
         "xoauth2": "~0.1.8"
     },
     "devDependencies": {
